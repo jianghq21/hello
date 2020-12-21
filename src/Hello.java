@@ -7,6 +7,7 @@ public class Hello {
     public static void main(String[] args) {
         int i=2,j=6;
         int c=i+j;
+        int d=5;
         System.out.println("hello");
         System.out.println(c);
 
